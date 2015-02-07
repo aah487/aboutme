@@ -1,0 +1,66 @@
+html{
+	margin-top: 50px;
+   margin-left: 100px;
+	margin-right: 100px;
+	background-color: grey;
+	height: 140%;
+
+}
+body{
+padding: 20px;	
+padding-left: 50px;
+padding-right: 50px;
+background-color: white;
+height: 140%;
+}
+
+ul.nav{   
+		list-style: none;
+		padding: 0; 
+		font-size: 20pt;
+		text-align: center;
+	} 
+ ul.nav li{  display: inline; }
+
+ #us{
+ 	float:right;
+ 	font-size: 24pt;
+ 	text-align: center;
+ 	/*border: solid red;*/
+ 
+	width: 300px;
+ 	padding-right:100px;
+ 	padding-left:100px;
+ 	padding-top: 100px;
+ 	padding-bottom: 100px;
+ 	
+ }
+
+ #parents{ float:right;}
+
+ #parents2{
+ 	float:left;
+ 	font-size: 24pt;
+ 	text-align: center;
+ 	padding-top: 20px;
+ 	padding-right:100px;
+ 	padding-left:100px;
+ 	margin-bottom: 81px;
+ 	width: 200px;
+ 	
+
+ 	}
+	#brothers{
+		float: left;
+ 	}
+
+ 	#brothers2{
+ 		float: right;
+ 		width: 300px;
+ 		font-size: 24pt;
+ 		padding-right:100px;
+ 	padding-left:60px;
+ 	padding-top: 100px;
+
+
+ 	}
